@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/chenqingfei/github/KeepAlive/com.android.keepalive/build/intermediates/res/merged/release/xml/authenticator.xml",
+        "source": "/Users/chenqingfei/github/KeepAlive/com.android.keepalive/src/main/res/xml/authenticator.xml"
+    },
+    {
+        "merged": "/Users/chenqingfei/github/KeepAlive/com.android.keepalive/build/intermediates/res/merged/release/xml/syncadapter.xml",
+        "source": "/Users/chenqingfei/github/KeepAlive/com.android.keepalive/src/main/res/xml/syncadapter.xml"
+    }
+]
