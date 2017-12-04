@@ -1,0 +1,90 @@
+[
+    {
+        "outputFile": "/Users/chenqingfei/github/AndroidKeepAlive/com.android.keepalive/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 81,
+                    "endOffset": 132
+                },
+                "from": {
+                    "file": "/Users/chenqingfei/github/AndroidKeepAlive/com.android.keepalive/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 129,
+                        "endColumn": 81,
+                        "endOffset": 206
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 137,
+                    "endColumn": 68,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "/Users/chenqingfei/github/AndroidKeepAlive/com.android.keepalive/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 60,
+                        "endColumn": 68,
+                        "endOffset": 124
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 206,
+                    "endColumn": 43,
+                    "endOffset": 245
+                },
+                "from": {
+                    "file": "/Users/chenqingfei/github/AndroidKeepAlive/com.android.keepalive/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 250,
+                    "endColumn": 81,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "/Users/chenqingfei/github/AndroidKeepAlive/com.android.keepalive/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 332,
+                    "endLine": 11,
+                    "endColumn": 12,
+                    "endOffset": 633
+                },
+                "from": {
+                    "file": "/Users/chenqingfei/github/AndroidKeepAlive/com.android.keepalive/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 357
+                    }
+                }
+            }
+        ]
+    }
+]

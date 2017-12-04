@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="account_auth_provider">com.keep.alive.account.provider</string>
+    <string name="account_auth_type">com.keep.alive.account</string>
+    <string name="app_name">Secure</string>
+    <string name="app_name1" translatable="false">stage_myapp</string>
+    <string name="ignoring_battery_optimizations_tips">重要提醒不再错过，点击开启电池优化</string>
+    <style name="KeepAliveStyle">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>
